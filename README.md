@@ -75,25 +75,7 @@ Repeat Purchase Analysis
 
 ---
 
-### 03. Mogo Loans Performance Analysis
-**Industry:** Financial Services
 
-**Business Problem:** Analyse motorcycle and car
-loan operations including issuance trends, agent
-performance, cancellation rates, and channel value.
-
-**Key Findings:**
-- 81.42% loan cancellation rate flagged as
-  critical operational issue
-- Team A issued 705 loans vs Team B at 430
-- Walk-in channel generated highest loan value
-  at KES 1.77M
-- Motorcycle loans account for 81% of total
-  issued loan value
-
-**Tools:** SQL Server, Power BI
-
-[View Project](./03-mogo-loans)
 
 ---
 
